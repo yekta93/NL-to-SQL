@@ -1,1 +1,1 @@
-# -Generate-Query-Language
+# Generate-Query-Language
